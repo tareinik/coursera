@@ -1,0 +1,73 @@
+/*#chicken {
+  background-color: #F0E68C;
+}
+
+#beef {
+  background-color: #F08080;
+}
+
+#sushi {
+  background-color: #D3D3D3;
+}*/
+
+body {
+  font-size: 16px;
+  color: #088163;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #e3fdff;
+  border-radius: 0;
+  border: 0;
+}
+
+/*navbar-brand {
+  padding-top: 25px;
+}*/
+.navbar-brand h1 {
+  color: #088163;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand h1:hover, .navbar-brand h1:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #088163;
+  margin: 5px auto 5px auto;
+  text-align: center;
+  font-size: 1.2em;
+}
+#nav-list a:hover {
+  background-color: #90d3bf;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #088163;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#main-content h2 {
+  margin: 5px auto 5px auto;
+  font-size: 1.8em;
+}
+#main-content div div div {
+  margin: 2px auto 2px;
+  padding: 10px;
+  background-color: #e3fdff;
+  color: #171719;
+  font-size: 0.9em;
+}
+#main-content div div div div {
+  color: #088163;
+  font-size: 1.5em;
+}
